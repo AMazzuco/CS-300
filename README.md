@@ -1,1 +1,11 @@
 # CS-300
+## What was the problem you were solving in the projects for this course?
+In the projects for this course we were helping ABC University create software to help their computer science advisors access course information. We were given all course information in a CSV file and needed to organize it using data three different data structures.
+## How did you approach the problem? Consider why data structures are important to understand.
+Throughout the course we were shown different data structures and how to solve similar problems with them. We also leaarned about runtime analysis and how some methods could take more time when used with more data than others. I approached the problem using the data structure I felt comfortable with that I believed would be fast and also able to handle the course information easily. It is important to understand how each data structure works as some structures are better suited for certain applications than others depending on the amount of data or the data itself. 
+## How did you overcome any roadblocks you encountered while going through the activities or project?
+Overall most roadblocks I encountered I was able to overcome by rereading the corresponding section in the zybook. 
+## How has your work on this project expanded your approach to designing software and developing programs?
+This project expanded my approach to designing software and developing programs by introducing new data structures and how they work to me. Previously I would not have thought to use a hash table or binary search tree to store data as a vector has usually cut it but now I see there are good uses for these options.
+## How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?
+I think that this project really helped me make my work more readable and maintainable. I found myself not getting lost in my own code as I put more comments in so I could come back a day later and still understand what I was doing the night before. I think I will be able to write programs that are more adaptable in the future as I now have a greater understanding of different data structures and how to implement them.
